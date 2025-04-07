@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 title: The Master Builders Club Homepage
 description: Afterschool K-12 STEM Club at Portland, Oregon
 show_downloads: false
+logo: /assets/img/masterbuilderslogo.jpg
 google_analytics:
