@@ -1,5 +1,5 @@
 ---
-title: Master Builders Club
+title: The Master Builders Club
 layout: default
 ---
 
