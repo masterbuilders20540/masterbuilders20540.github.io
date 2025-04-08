@@ -16,6 +16,8 @@ We appreciate your donation through PayPal to fllmasterbuilders20540@gmail.com. 
 ### Arnold Yang 
 Founder/President
 
+<img src="https://github.com/user-attachments/assets/2924ad64-5978-4b34-8a54-e8b0d467613b" width="200"/>
+
 Mentor/Coach/Teach: Math/Chess/ComputerScience/Robotics/Bridge
 
 Arnold has taught computer science, chess, math, cybersecurity, robotics and contract bridge. Arnold mentored high school cybersecurity teams for 4 years. Every year, the teams won Oregon Champion in high scholl open division of the CyberPatriot competition. In 2024-2025 season, the team he mentored won 3rd place in CyberPatriot 17 National Final.
