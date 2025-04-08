@@ -31,4 +31,7 @@ layout: default
   * USACO Programming (Grade 4-12): For fee [Register form](https://docs.google.com/forms/d/e/1FAIpQLSfd4xmRJwgjgSJ_ktFG-V90m4TUIEjk8BN8oCERz80BTxE46w/viewform?usp=header)
 * Fun Bridge:
   * Volunteer (anyone): Laural Parc [Schedules](https://masterbuilders.me/events)
-  * Portland Bridge Club (anyone): Saturdays: 1pm (open pairs); Sundays: 1pm (social bridge), [Details](https://www.bridgewebs.com/cgi-bin/bwor/bw.cgi?club=portland&pid=display_page2)
+  * Portland Bridge Club (anyone):
+    * Saturdays: 1pm (open pairs)
+    * Sundays: 1pm (social bridge)
+    * [Details](https://www.bridgewebs.com/cgi-bin/bwor/bw.cgi?club=portland&pid=display_page2)
