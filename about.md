@@ -7,7 +7,7 @@ layout: default
 
 ## Our Mission
 
-The Master Builders Club, a non-profit organization in Oregon to help give kids an opportunity to learn STEAM directly from projects and competitions. If you think your kids at school need some exposure to Robotics or other STEAM expo, please feel free to contact us at fllmasterbuilders20540@gmail.com or arnold.yang@materbuilders.me
+Incorporated in 2014, the Master Builders Club, a non-profit organization in Oregon is created to help give kids an opportunity to learn STEAM directly from projects and competitions. If you think your kids at school need some exposure to Robotics or other STEAM expo, please feel free to contact us at fllmasterbuilders20540@gmail.com or arnold.yang@materbuilders.me
 
 We appreciate your donation through PayPal to fllmasterbuilders20540@gmail.com. We are a 501(c)(3) status non-profit organization. Your donation to us is tax deductible. Our Tax id is 82-4135345. Thank you.
 
