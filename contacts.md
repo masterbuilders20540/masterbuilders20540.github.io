@@ -21,4 +21,5 @@ Tax ID: 82-4135345
 
 Ways of donation:\
 Benevity: search for "The Master Builders Club" \
-Zelle: titanturtlesteam@gmail.com
+Zelle: titanturtlesteam@gmail.com \
+PayPal: fllmasterbuilders20540@gmail.com
