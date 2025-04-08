@@ -15,3 +15,10 @@ Email: arnold.yang@masterbuilders.me
 Entity Name: The Master Builders Club \
 Organization Type: 501(c)(3) \
 Tax ID: 82-4135345
+
+
+### Donation
+
+Ways of donation:\
+Benevity: search for "The Master Builders Club" \
+Zelle: titanturtlesteam@gmail.com
