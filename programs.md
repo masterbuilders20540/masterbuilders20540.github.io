@@ -37,8 +37,13 @@ Collaborated with Westview High Schoo, we  AFA CyberPatriot competitions, picoCT
 * 2023 CyberCamps: July 24 to August 4, 2023
 * 2022 CyberCamps: July 17 to July 22, 2022
 
+### Chess
+
+* Fridays: 7pm-9pm (lichess 3+2 tournament)
+
 ### Math
 
+* Thursdays: 6pm-8pm (zoom)
 * 2024 MathCon Contests (3 teams)
 * 2023 MathCon Contests (5 teams)
 * 2022 Mathcon Contests (2 teams)
