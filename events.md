@@ -23,8 +23,22 @@ layout: default
 
 ## Past Events
 
+* Apr. 6, 2025: \
+  1:00pm - 3:00pm
+  Laural Parc Bridge session
+
+* Apr. 5-6, 2025: \
+  Plaid CTF competition
+
 * March 15-18, 2025: \
   **CyberPatriot 17 National Final**
+
+* Mar. 7-17, 2025: \
+  picoCTF 2025 competition
+
+* Mar. 2, 2025: \
+  1:00pm - 3:00pm
+  Laural Parc Bridge session
   
 * Jan. 23-25, 2025: \
   **CyberPatriot Semifinal Competition**
