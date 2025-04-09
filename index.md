@@ -21,9 +21,11 @@ layout: default
   * CyberCamp (Grade 6-12): [Register for Summer CyberCamps 2025](https://titanturtles.org/cybercamp)
   * CyberPatriot Competition (Grade 6-12): [Join our TitanTurtles teams to participate in CyberPatriot 18 (2025-2026)](https://titanturtles.org/apply)
 * Chess:
+  * Lichess Tournament (anyone): Fridays 7-9pm  
   * Chess Class (Grade K-12): [Register at Rose City Chess for Classes and Camps](https://www.rosecitychess.com)
   * Chess Training (Grade K-12): [Register at Puddletown Chess (some are free)](https://puddletownchess.org)
 * Math:
+  * Thursdays: 6-8pm, zoom
   * Math Kangaroo (Grade 4-12):
   * Mathcon (Grade 4-12):
 * Other Computer Science:
