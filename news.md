@@ -5,6 +5,12 @@ layout: default
 
 ## [Home](./index.html) | [About Us](./about.html) | [Programs](./programs.html) | [Partners](./partners.html) | **News** | [Events](./events.html) | [Contact Us](./contacts.html)
 
+# TitanTurtles 2024-2025 National Final competition Mar. 15-18
+TitanTurtles Team 17-0224 competed and won 3rd place in High School Open Division in CyberPatriot 17 National Final at Marriott Hotel & Conference Center in North Besethda, MD. 
+
+<img src="https://github.com/user-attachments/assets/3b339e8d-9fdc-4dec-aab4-f47250b0e7ee" width="600px"/>
+
+
 # TitanTurtles 2024-2025 Round 3 (State round) competition December 12-15
 Team 17-0224 TitanTurtles team competed first this round at coach's house on Friday night after school. Most students had just finished full-day school and were exhausted. There were a few glitches through the process too. Cisco quiz was opened first without informing rest of the team. Team's overall ranking is #2 in the nation as of Sunday morning. CyberAegis will start competing on Sunday and knock down the ranking of every team on leader board.
 ![team_0221_TitanTurtles](https://github.com/user-attachments/assets/c0f415ba-e747-451b-b692-86f0524116eb)
